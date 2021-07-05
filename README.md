@@ -16,7 +16,7 @@ This work is licensed under a
 
 ## Citation
 
-```json
+```
 @techreport{FrVD_TechicalReport,
   title       = "Projet FAR-VVD: Rapport final des travaux au 18e mois du projet",
   author      = "Francis Charette-Mignault, Edith Galy, Lise Rebout, Mathieu Provencher",
