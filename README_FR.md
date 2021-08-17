@@ -96,8 +96,6 @@ Utilisation de [detectron2][detectron2] pour la reconnaissance d'actions par ind
 
 Nous avons fait correspondre les annotations d'actions de la VD avec le jeu d'action [AVA][AVA] (80 étiquettes).
 
-[AVA]: https://research.google.com/ava/ 
-
 Pour ce faire, mous avons :
 - filtré et extrait les actions avec sujets humains (avec ou sans objet direct) depuis les annotations de la VD,
 - normalisé (les objets directs humains = "_quelqu'un_"),
