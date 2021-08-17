@@ -185,16 +185,3 @@ Veuillez référencer à l'aide de la [citation suivante](README.md#Citation).
 ### Ressources utilisées pour la constitution de Fr-VD
 
 Voir [la page dédiée](REFERENCES.md) contenant les références complètes des ressources employées.
-
-
-### Citation
-```
-@techreport{FrVD_TechicalReport,
-  title       = "Projet FAR-VVD: Rapport final des travaux au 18e mois du projet",
-  author      = "Francis Charette-Mignault, Edith Galy, Lise Rebout, Mathieu Provencher",
-  institution = "Centre de recherche informatique de Montréal (CRIM)",
-  address     = "405 Ogilvy Avenue #101, Montréal, QC H3N 1M3",
-  year        = 2021,
-  month       = jul
-}
-```
