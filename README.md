@@ -104,11 +104,11 @@ correspondance with real annotations produced in the dataset.
   - `sujet`
   - `objet direct`
   - `objet indirect essentiel`
-  - and providing the specific type of each one, using one of:
-    - `humain`,
-    - `animal`, 
-    - `objet` ou
-    - `concept`.
+  - and providing the specific type of each one, using one of:  
+    - `humain`
+    - `animal` 
+    - `objet`
+    - `concept`
 
 ## Actions Annotations from Video 
 
