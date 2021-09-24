@@ -1,5 +1,7 @@
 # Fr-VD
 
+> This content is also [available in English](README.md).
+
 **Fr-VD** est un jeu de données comprenant des références à des clips video (non-inclus), 
 des vidéodescriptions (VD), et des métadonnées (scène, personnage, actions),
 en **français** pour l'apprentissage profond.
