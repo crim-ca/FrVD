@@ -242,9 +242,12 @@ in the [Alignment Strategies](#Alignment-Strategies) in **Fr-VD*- dataset.
 
 ## Metadata File Contents
 
-![contents-shield](https://img.shields.io/badge/contents-coming%20soon-yellow)
+Metadata including SRT and JSON formatted annotations can be downloaded from the below location:
 
+[FrVD: French Video Description][frvd-dataset] <br>
 **Note**: *Videos are not included.*
+
+[frvd-dataset]: https://drive.google.com/drive/folders/1UXeoQ5Nr6wj-ye2_ctLOL_3nHwTdJT9q
 
 ## Visualization Tool
 
