@@ -212,9 +212,13 @@ jeu de données **Fr-VD**.
 
 ## Contenu des fichiers de métadonnées
 
-![contents-shield](https://img.shields.io/badge/contenu-bientôt%20disponible-yellow)
+Les métadonnées et annotations du jeu de données en format SRT et JSON 
+peuvent être télécharchées à partir du lien suivant:
 
+[FrVD: French Video Description][frvd-dataset] <br>
 **Note**: *Les vidéos ne sont pas inclus.*
+
+[frvd-dataset]: https://drive.google.com/drive/folders/1UXeoQ5Nr6wj-ye2_ctLOL_3nHwTdJT9q
 
 ## Outil de visualisation
 
