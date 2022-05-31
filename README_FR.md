@@ -244,9 +244,16 @@ _Programme de soutien, à la valorisation et au transfert_ (PSVT).
 
 ### Fr-VD : Jeu de données et outil de visualisation
 
-Veuillez référencer à l'aide de la [citation suivante](README.md#Citation).
+Veuillez référencer ces travaux et le jeu de données à l'aide de la [citation suivante](README.md#Citation).
 
-![report-shield](https://img.shields.io/badge/référence%20au%20rapport-bientôt%20disponible-yellow)
+Les documents [FAR-VVD - Rapport d'avancement (Partie 1)][farvvd-report-1] et
+[FAR-VVD - Rapport final (Partie 2)][farvvd-report-2] 
+offrent plusieurs détails supplémentaires en lien avec les 
+méthodes appliquées pour générer le jeu de données [FrVD][frvd-dataset] ainsi que quelques explorations effectuées 
+pour la validation des annotations produites.
+
+[farvvd-report-1]: https://drive.google.com/file/d/15u_FVoddSmF1RASBsCiNF8jPq6COd8uW/view
+[farvvd-report-2]: https://drive.google.com/file/d/18yFTUJtRlY2McR9ZdD80NdBs-qg45cZc/view
 
 ### Ressources bibliographiques supplémentaires
 
