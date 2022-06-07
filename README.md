@@ -272,10 +272,15 @@ the _Programme de soutien, à la valorisation et au transfert_ (PSVT).
 
 ### Fr-VD: Dataset and Visualization Tool
 
-Please refer to the above [citation](#citation) for referencing this dataset and work.
+Please refer to the above [citation](#citation) for referencing this dataset and related work.
 
-![report-shield](https://img.shields.io/badge/report%20reference-coming%20soon-yellow)
+Documents [FAR-VVD - Progress Report (Part 1)][farvvd-report-1] and [FAR-VVD - Final Report (Part 2)][farvvd-report-2] 
+(both in French) offer additional details regarding applied methodologies to generate metadata included in
+[FrVD][frvd-dataset] dataset as well as further exploration about steps accomplished to validate produced annotations.
+
+[farvvd-report-1]: https://drive.google.com/file/d/15u_FVoddSmF1RASBsCiNF8jPq6COd8uW/view
+[farvvd-report-2]: https://drive.google.com/file/d/18yFTUJtRlY2McR9ZdD80NdBs-qg45cZc/view
 
 ### Additional Bibliographical References
 
-See [references page](REFERENCES.md) that contains detailed and complete references to ressources.
+See [references page](REFERENCES.md) that contains detailed and complete references to resources.
